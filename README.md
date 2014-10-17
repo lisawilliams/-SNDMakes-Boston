@@ -66,4 +66,5 @@ Adam Schweigert, INN
 * Mike Workman, Boston Globe: "Facebook has solved the problem because they have to get content from their users for free -- so of course they make it easy.  But what would it look like if we could make it that easy in the newsroom?"  
 
 
-
+**How might we improve the process of pitching stories?**
+* This idea was from Sean Dillingham of KPCC
