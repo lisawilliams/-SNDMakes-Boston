@@ -72,4 +72,4 @@ Adam Schweigert, INN
 **How might we imagine the editorial output of news organization in different ways -- making more immersive content experiences?"** 
 * This one is from Jeanne Brooks of Hacks/Hackers
 
-
+11:06 AM ET -- wrapping up the initial brainstorming session.
