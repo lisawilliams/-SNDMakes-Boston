@@ -44,6 +44,9 @@ Adam Schweigert, INN
 **How can we make better tools for breaking news?**
 * "During the Boston Bombing, I felt like the Boston Globe was super slow on things -- so I was going to Reddit.  There's gotta be a better way to link those two, so that I have serious journalism instead of some rando's opinion.  
 * During the bombing, there were a lot of people hanging around livetweeting the (police) scanner.  
+* For breaking news, everybody's on Twitter, but then you're just making content for somebody else's company and they get all the money for it. 
+* There's a lot of breaking news on Twitter, but as news organizations, the value we can add is the editorial vetting and added value on top of Twitter.
+* Adam Schweigert/Lisa Williams  How can we make visible what the news organization is aware of, as opposed to just what they've published and verified?
 
 
 
