@@ -36,5 +36,8 @@ Adam Schweigert, INN
 *  "How might the content creation process create better journalists?"  How can it help you make a better choice, rather than writing something that an editor will come to you and say, wait, write it this way?
 *  How about building in headline testing?  
 *  Tito Bottita, Upstatement:  At Buzzfeed, when you try to author an item, it will show you what makes a good Buzzfeed post or headline.  (Lisa Williams: Mailchimp does this too -- it lets you test email subject lines and shows you how successful they'll be). 
+* Jeanne Brooks:  How can we bring in the community into the content creation process to make content creators more sensitive and culturally informed?  
+
+
 
 
