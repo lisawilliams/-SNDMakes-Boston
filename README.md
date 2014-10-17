@@ -141,7 +141,9 @@ Dheerja Kaur is the presenter.
 
 2:30 ET.  Teams report back with their ideas to work on.  
 
-Team 1:  How can we make content creators stewards of the next click?  (how can we let content creators suggest the next read to a visitor?  Readers should be able to get more than just a list of headlines.  (this reminds me of those little handwritten shelf tags in independent bookstores, written by staffers recommending a particular book)
+**Team 1:**  How can we make content creators stewards of the next click?  (how can we let content creators suggest the next read to a visitor?  Readers should be able to get more than just a list of headlines.  (this reminds me of those little handwritten shelf tags in independent bookstores, written by staffers recommending a particular book)
+**Team 2:** Previewing in multiple contexts; previewing based on social; making more content creation possible by modularizing content. 
+**Team 3**
 
 
 
