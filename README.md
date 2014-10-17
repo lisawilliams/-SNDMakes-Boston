@@ -136,3 +136,6 @@ Dheerja Kaur is the presenter.
 * Stephen: "Now contains 'snackable' news content.  Short form content always playing on the site, like twitter.  Tweets, ESPN content, graphics from SportsCenter, ESPN alerts.  What we built for them is something we call the NOW tool. 
 * It looks a lot like Tweetdeck.  Streams show all the stuff from CMS, all the stuff from Twitter.  From that an editor can flag certain content and create the curated "Now" stream on the front page. 
 * Editors were constantly going to Tweedeck and copypasting stuff into the CMS, so we shortened the loop. 
+* There are also "Now" columns for MLB, NFL front pages, as well as the front page of ESPN.  We'll be able to automate feeds based on players and teams soon too. 
+* Question from Jeanne Brooks.  The Instagram column is all the people you follow, but can you follow a hashtag?  A: Not yet. 
+
