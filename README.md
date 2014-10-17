@@ -139,3 +139,9 @@ Dheerja Kaur is the presenter.
 * There are also "Now" columns for MLB, NFL front pages, as well as the front page of ESPN.  We'll be able to automate feeds based on players and teams soon too. 
 * Question from Jeanne Brooks.  The Instagram column is all the people you follow, but can you follow a hashtag?  A: Not yet. 
 
+2:30 ET.  Teams report back with their ideas to work on.  
+
+Team 1:  How can we make content creators stewards of the next click?  (how can we let content creators suggest the next read to a visitor?  Readers should be able to get more than just a list of headlines.  (this reminds me of those little handwritten shelf tags in independent bookstores, written by staffers recommending a particular book)
+
+
+
