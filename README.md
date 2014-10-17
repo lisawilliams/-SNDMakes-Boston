@@ -107,4 +107,6 @@ Chris Plummer, Dockyard
 
 Miranda Mulligan, Knight Lab
 
+* We want to make tools that people use.  There's a lot of work showing people what's possible, but doesn't work its way into the workflow of content creation in newsrooms. 
+* It took a little while to get everyone on board with that, but we started with something that had a little momentum -- Timeline.JS.  (http://timeline.knightlab.com)
 * 
