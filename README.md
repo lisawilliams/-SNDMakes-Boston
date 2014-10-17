@@ -75,3 +75,14 @@ Adam Schweigert, INN
 * This one is from Jeanne Brooks of Hacks/Hackers
 
 11:06 AM ET -- wrapping up the initial brainstorming session.
+
+12:45 PM ET -- Lightning Talks
+
+Amanda Krauss, Texas Tribune
+
+* We started out in Pangaea, a vast Django application we ran everything in -- event reservations, which didn't work well, data apps with 250,000 URLS  -- when we updated it pulled down our whole site. 
+* If you're complaining about the content creation interface of Wordpress, this is much worse.  
+* Eventually they broke things appart -- eventbrite for events, Mailchimp for newsletters, maybe WP for content creation (but not publishing)  Style guide in Jekyll on a Github page, Sched for event schedules. 
+* "There's a discussion happening on Twitter about whether or not news organizations should be tech companies.  My answer? If your tech team is four people, the answer is no."  
+* [Lisa Williams, thinking: the dream of extra advantages of building a CMS from the ground up didn't pan out.  In what circumstances does it pan out?]
+* Even nontech people were nervous about us outsourcing so many of our processes, but we kept coming back to the question, "Can we do it well?" and the answer was no." 
