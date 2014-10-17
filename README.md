@@ -78,7 +78,7 @@ Adam Schweigert, INN
 
 12:45 PM ET -- Lightning Talks
 
-Amanda Krauss, Texas Tribune.  How the Texas Tribune approaches its architecture.  One big CMS? Use third party services?
+**Amanda Krauss, Texas Tribune.  How the Texas Tribune approaches its architecture.  One big CMS? Use third party services?**
 
 * We started out in Pangaea, a vast Django application we ran everything in -- event reservations, which didn't work well, data apps with 250,000 URLS  -- when we updated it pulled down our whole site. 
 * If you're complaining about the content creation interface of Wordpress, this is much worse.  
@@ -87,7 +87,7 @@ Amanda Krauss, Texas Tribune.  How the Texas Tribune approaches its architecture
 * [Lisa Williams, thinking: the dream of extra advantages of building a CMS from the ground up didn't pan out.  In what circumstances does it pan out?]
 * Even nontech people were nervous about us outsourcing so many of our processes, but we kept coming back to the question, "Can we do it well?" and the answer was no." 
 
-Chris Plummer, Dockyard
+**Chris Plummer, Dockyard**
 
 * The Past:  In the beginning, Nolan created Atari, and it was good.  They made $2B, but then they ran out of runway in 1983, losing $583 million dollars, shrinking from 10k employees to 200 and then they died. 
 * This was an industry wide extinction phenomenon. 
@@ -105,8 +105,17 @@ Chris Plummer, Dockyard
 *  Q: Does this industry collapse tell you anything about the industry contraction in news?  A: News has been around for a long time.  There was no business model in the 70's for video games -- they'd do things like produce 20 million cartridges on a platform with 10 million consoles.  
  
 
-Miranda Mulligan, Knight Lab
+**Miranda Mulligan, Knight Lab**
 
 * We want to make tools that people use.  There's a lot of work showing people what's possible, but doesn't work its way into the workflow of content creation in newsrooms. 
 * It took a little while to get everyone on board with that, but we started with something that had a little momentum -- Timeline.JS.  (http://timeline.knightlab.com)
-* 
+* One of the feature requests we always get is "can we make it vertical?" and the answer is always, "No."  (Why? -- LW)
+* Timeline is not designed for hundreds of nodes.  Our mission is to support storytelling, and part of storytelling editing.  Nobody's going to read a story with 400 nodes. Reporter's Lab's Timeflow is something more for that.  
+* Soundcite lets you overlay short audio clips on top of text.  Text with attached audio appears highlighted.  
+* The only weird feature request we get is "can I use it for really long audio?"  You can, but we don't think it's the best use for the tool.  http://soundcite.knightlab.com
+* Storymap  (http://storymap.knightlab.com) is a friendlier way to create story maps or overlays of gigapixel image.  "I like the idea of putting a map over an audio file)
+* Creating the authoring tool for storymap was pretty complicated.  Timeline, interaction  (This looks super cool. -- LW)
+* The metaphor for storymap is a presentation builder -- you just put slides on particular places.  
+* Snapmap makes a map of your geotagged Instagram photos.  http://snapmap.knightlab.com.  Then you can export it into Storymap.  You can add foursquare checkins, etc. 
+* Juxtapose lets you do those sliders, like the ones NYT had for before & after Fukushima.  http://juxtapose.knightlab.com
+* People had unexpected and uses of it, not always ideal.  WE need to build into the tool a way for people to be better visual editors.  
