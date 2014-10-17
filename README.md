@@ -78,7 +78,7 @@ Adam Schweigert, INN
 
 12:45 PM ET -- Lightning Talks
 
-Amanda Krauss, Texas Tribune
+Amanda Krauss, Texas Tribune.  How the Texas Tribune approaches its architecture.  One big CMS? Use third party services?
 
 * We started out in Pangaea, a vast Django application we ran everything in -- event reservations, which didn't work well, data apps with 250,000 URLS  -- when we updated it pulled down our whole site. 
 * If you're complaining about the content creation interface of Wordpress, this is much worse.  
@@ -86,3 +86,7 @@ Amanda Krauss, Texas Tribune
 * "There's a discussion happening on Twitter about whether or not news organizations should be tech companies.  My answer? If your tech team is four people, the answer is no."  
 * [Lisa Williams, thinking: the dream of extra advantages of building a CMS from the ground up didn't pan out.  In what circumstances does it pan out?]
 * Even nontech people were nervous about us outsourcing so many of our processes, but we kept coming back to the question, "Can we do it well?" and the answer was no." 
+
+Miranda Mulligan, Knight News Lab
+
+*
