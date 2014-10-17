@@ -1,7 +1,4 @@
--SNDMakes-Boston
-================
-
-#SNDMakes Boston 
+#SNDMakes Boston: How Might We Improve the Content Creation Process for News?
 October 17-19
 At the offices of Upstatement, 319A A Street, Boston, MA
 
