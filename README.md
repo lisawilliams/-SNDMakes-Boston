@@ -65,6 +65,8 @@ Adam Schweigert, INN
 * Mike Swartz, Upstatement.  At Upstatement, we deal with people who are expert content creators, but just trying to get text into the browser and bold things is such a struggle that they can't use their instincts because the technology is beating them down at every turn.  There's a lot of unproductive friction in the content creation process -- they aren't thinking, how can I report this, they're thinking, "How can I get this to show up [on the web]?
 * Lisa Williams -- I'm fascinated by online learning environments.  Like on Khan Academy, when my kids use it, they enter code on one half of the screen and immediately see the results on the left hand side.  The feedback loop is so much shorter, than using Wordpress, writing into that box, and then hitting publish.  What would change if you could see it live?  
 * Show them how it looks when it gets shared on Facebook -- is the headline cut off?  Does the photo look weird?  You should be able to see a preview for lots of different platforms and devices.  
+* "We just changed our content creation interface, and it looks like the control panel of the 747.  Facebook has already solved this problem -- it's so simple to post a link to something."
+* Mike Workman, Boston Globe: "Facebook has solved the problem because they have to get content from their users for free -- so of course they make it easy.  But what would it look like if we could make it that easy in the newsroom?"  
 
 
 
