@@ -9,6 +9,8 @@ At the offices of Upstatement, 319A A Street, Boston, MA
 List of attendees: http://www.snd.org/2014/10/meet-the-news-nerds-tackling-content-creation-at-sndmakes/
 
 
+**Initial brainstorming session -- Friday, October 17, 10AM EST**
+
 Miranda Mulligan, Chief of KnightLab:  **"I want to make audio a more compelling experience in browser-based environments."**
 * What's the audio version of an animated GIF?  Simple, short, easy, Vine-like but not beholden to any service or platform? (Lisa Williams)
 
