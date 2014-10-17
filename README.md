@@ -68,3 +68,8 @@ Adam Schweigert, INN
 
 **How might we improve the process of pitching stories?**
 * This idea was from Sean Dillingham of KPCC
+
+**How might we imagine the editorial output of news organization in different ways -- making more immersive content experiences?"** 
+* This one is from Jeanne Brooks of Hacks/Hackers
+
+
