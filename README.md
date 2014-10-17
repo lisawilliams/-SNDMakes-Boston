@@ -92,4 +92,11 @@ Chris Plummer, Dockyard
 * The Past:  In the beginning, Nolan created Atari, and it was good.  They made $2B, but then they ran out of runway in 1983, losing $583 million dollars, shrinking from 10k employees to 200 and then they died. 
 * This was an industry wide extinction phenomenon. 
 * What made them fall apart?  He presents an adjusted for inflation revenue chart.  Love. 
-* Some people blame ET and 
+* Some people blame ET -- a huge flop.  But the actual crash was way more complicated than that (shows huge flowchart) 
+* Did a thesis on the great video game crash.  Video Games industry never recovered -- never became as big as it was in 1983. 
+* Telling this story was challenging -- there were a lot of parallel stories.  How could I let readers read these in a parallel way, or give them incentives to return? 
+* Makes a high level view where a timeline is the navigational interface for the content. Clicking on something brings you to text that I wrote -- then there are side notes with supplementary materials.  Side notes also show you where something appears elsewhere in the corpus of material.  
+* Animated sprites illustrate things in the story.  
+* Wants contributors -- journalists, historians Gamers, insiders
+* Wants developers to help with animations. Front end and back end.  
+* Need to figure out the money -- crowdfunding, etc. 
