@@ -87,6 +87,9 @@ Amanda Krauss, Texas Tribune.  How the Texas Tribune approaches its architecture
 * [Lisa Williams, thinking: the dream of extra advantages of building a CMS from the ground up didn't pan out.  In what circumstances does it pan out?]
 * Even nontech people were nervous about us outsourcing so many of our processes, but we kept coming back to the question, "Can we do it well?" and the answer was no." 
 
-Miranda Mulligan, Knight News Lab
+Chris Plummer, Dockyard
 
-*
+* The Past:  In the beginning, Nolan created Atari, and it was good.  They made $2B, but then they ran out of runway in 1983, losing $583 million dollars, shrinking from 10k employees to 200 and then they died. 
+* This was an industry wide extinction phenomenon. 
+* What made them fall apart?  He presents an adjusted for inflation revenue chart.  Love. 
+* Some people blame ET and 
