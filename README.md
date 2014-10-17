@@ -131,4 +131,8 @@ Dheerja Kaur is the presenter.
 * Today's design really constrains editors.  In the redesign, the idea is everything is a toolkit.  We have a huge amount of content types -- live and on demand audio and video, headlines, stories, articles, etc.  We tried to normalize that content so that all the metadata associated with all the content types is visible to the user.   
 * Any content format can be dragged and dropped into the "stream" of the front page or other landing pages.  
 * the toolkit shows Type, Colors, Icons, Buttons, Tables, Forms, Logos, Imagery, Toolkits, page layouts (I think this is what someone use to author it, the choices they have) 
-* 
+* Inline player cards, game summaries, and polls can be dragged into an article page.  
+* Kamal: We want our producers putting out as much content as possible.  A perfect example is the "now" column. 
+* Stephen: "Now contains 'snackable' news content.  Short form content always playing on the site, like twitter.  Tweets, ESPN content, graphics from SportsCenter, ESPN alerts.  What we built for them is something we call the NOW tool. 
+* It looks a lot like Tweetdeck.  Streams show all the stuff from CMS, all the stuff from Twitter.  From that an editor can flag certain content and create the curated "Now" stream on the front page. 
+* Editors were constantly going to Tweedeck and copypasting stuff into the CMS, so we shortened the loop. 
