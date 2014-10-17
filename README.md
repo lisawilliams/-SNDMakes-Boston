@@ -51,6 +51,20 @@ Adam Schweigert, INN
 * Adam Schweigert/Lisa Williams  How can we make visible what the news organization is aware of, as opposed to just what they've published and verified?
 
 
+**Comments & community interaction**
+
+* I think it's interesting how Medium does comments.  They're like "We think comments are broken."
+* "So instead of a wall at the bottom for you to post graffiti on, you comment on particular paragraphs -- you're responding to the thing. 
+* Amanda Krauss, TX Tribune -- or, to go back to Adam's idea, how can we design comment boxes to encourage civil behavior.  We work with the Engaging News Project on this.  http://engagingnewsproject.org/
+* 
+
+**The Endless Grind of the CMS**
+
+**How might we allow creators to see their work in context -- in device context, in web context, as they compose."
+
+* Mike Swartz, Upstatement.  At Upstatement, we deal with people who are expert content creators, but just trying to get text into the browser and bold things is such a struggle that they can't use their instincts because the technology is beating them down at every turn.  There's a lot of unproductive friction in the content creation process -- they aren't thinking, how can I report this, they're thinking, "How can I get this to show up [on the web]?
+* Lisa Williams -- I'm fascinated by online learning environments.  Like on Khan Academy, when my kids use it, they enter code on one half of the screen and immediately see the results on the left hand side.  The feedback loop is so much shorter, than using Wordpress, writing into that box, and then hitting publish.  What would change if you could see it live?  
+* Show them how it looks when it gets shared on Facebook -- is the headline cut off?  Does the photo look weird?  You should be able to see a preview for lots of different platforms and devices.  
 
 
 
