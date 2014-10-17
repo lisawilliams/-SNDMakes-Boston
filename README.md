@@ -5,7 +5,7 @@
 October 17-19
 At the offices of Upstatement, 319A A Street, Boston, MA
 
-#If I have quoted you below but not credited you, please let me know.  Twitter: @lisawilliams.  Or fork this document and issue a pull request! 
+**If I have quoted you below but not credited you, please let me know.  Twitter: @lisawilliams.  Or fork this document and issue a pull request!**
 
 \#SNDMakes hashtag on Twitter:  https://twitter.com/search?q=%23sndmakes&src=tyah
 
