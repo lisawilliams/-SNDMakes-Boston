@@ -142,8 +142,11 @@ Dheerja Kaur is the presenter.
 2:30 ET.  Teams report back with their ideas to work on.  
 
 * **Team 1:**  How can we make content creators stewards of the next click?  (how can we let content creators suggest the next read to a visitor?  Readers should be able to get more than just a list of headlines.  (this reminds me of those little handwritten shelf tags in independent bookstores, written by staffers recommending a particular book)
-* **Team 2:** Previewing in multiple contexts; previewing based on social; making more content creation possible by modularizing content. 
-* **Team 3**
+* **Team 2:** Previewing in multiple contexts; previewing based on social; making more content creation possible by modularizing content. (Looks like previewing based on social is the winning idea)
+* **Team 3** How might we create a simple way to create charts or graphs from spreadsheet data? 2) How can we include institutional knowledge or style guides as part of content creation?  3) How can we better present breaking news -- let creators more quickly incorporate breaking news?  No consensus as of now. 
+* ** Team 4 ** How can we help writers come up with unique perspectives on their topics?  
+* ** Team 5 ** How can we include better context in the story without detracting from it or distracting the reader?  How can we make crafting that available to content creators?
+* ** Team 6 **  
 
 
 
