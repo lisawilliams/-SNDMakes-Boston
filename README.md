@@ -100,3 +100,11 @@ Chris Plummer, Dockyard
 * Wants contributors -- journalists, historians Gamers, insiders
 * Wants developers to help with animations. Front end and back end.  
 * Need to figure out the money -- crowdfunding, etc. 
+* Is built on the Craft CMS with much added code -- so people can create side notes, media galleries. 
+* It really affects how you're writing.  Is this primary, or secondary?  
+*  Q: Does this industry collapse tell you anything about the industry contraction in news?  A: News has been around for a long time.  There was no business model in the 70's for video games -- they'd do things like produce 20 million cartridges on a platform with 10 million consoles.  
+ 
+
+Miranda Mulligan, Knight Lab
+
+* 
