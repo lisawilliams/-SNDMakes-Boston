@@ -119,3 +119,4 @@ Adam Schweigert, INN
 * Snapmap makes a map of your geotagged Instagram photos.  http://snapmap.knightlab.com.  Then you can export it into Storymap.  You can add foursquare checkins, etc. 
 * Juxtapose lets you do those sliders, like the ones NYT had for before & after Fukushima.  http://juxtapose.knightlab.com
 * People had unexpected and uses of it, not always ideal.  WE need to build into the tool a way for people to be better visual editors.  
+* Timeline has been used by 350,000 storytellers and gets 100,000 uniques a month.  
