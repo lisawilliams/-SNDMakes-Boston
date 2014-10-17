@@ -148,9 +148,13 @@ Dheerja Kaur is the presenter.
 * **Team 5** How can we include better context in the story without detracting from it or distracting the reader?  How can we make crafting that available to content creators?
 * **Team 6**  
 
-4:13 PM ET.  Teams get together and announce refinements of their ideas. 
+*4:13 PM ET.  Teams get together and announce refinements of their ideas.* 
 
 * **Team 1** We're thinking about how we might foster the "next click." 
-* **Team 2** 
+* **Team 2** How might we help content creators optimize their content for the many distribution channels out there, while making them aware of who their audience truly is?  
+* **Team 3** How might we make it easier and faster to identify and verify information about a breaking news event on social media?
+* **Team 4** 
+* **Team 5** 
+* **Team 6** How might we break the fourth wall in the context of news stories?  How might we expose the reporting and the investigation process?  Improve citation or annotation experience?  In an audio story, I need to cite something a listener might or might not want to go into.  How can it be really easy for me to pull up the citation?  
 
 
