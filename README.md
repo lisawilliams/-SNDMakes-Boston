@@ -145,9 +145,9 @@ Dheerja Kaur is the presenter.
 * **Team 2:** Previewing in multiple contexts; previewing based on social; making more content creation possible by modularizing content. (Looks like previewing based on social is the winning idea)
 * **Team 3** How might we create a simple way to create charts or graphs from spreadsheet data? 2) How can we include institutional knowledge or style guides as part of content creation?  3) How can we better present breaking news -- let creators more quickly incorporate breaking news?  No consensus as of now. 
 * 
-* ** Team 4 ** How can we help writers come up with unique perspectives on their topics?  
-* ** Team 5 ** How can we include better context in the story without detracting from it or distracting the reader?  How can we make crafting that available to content creators?
-* ** Team 6 **  
+* **Team 4** How can we help writers come up with unique perspectives on their topics?  
+* **Team 5** How can we include better context in the story without detracting from it or distracting the reader?  How can we make crafting that available to content creators?
+* **Team 6**  
 
 
 
