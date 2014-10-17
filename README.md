@@ -38,7 +38,8 @@ Adam Schweigert, INN
 *  How about building in headline testing?  
 *  Tito Bottita, Upstatement:  At Buzzfeed, when you try to author an item, it will show you what makes a good Buzzfeed post or headline.  (Lisa Williams: Mailchimp does this too -- it lets you test email subject lines and shows you how successful they'll be). 
 * Jeanne Brooks:  How can we bring in the community into the content creation process to make content creators more sensitive and culturally informed?  
-* 
+*
+
 How can we make better tools for breaking news?  
 * "During the Boston Bombing, I felt like the Boston Globe was super slow on things -- so I was going to Reddit.  There's gotta be a better way to link those two, so that I have serious journalism instead of some rando's opinion.  
 
