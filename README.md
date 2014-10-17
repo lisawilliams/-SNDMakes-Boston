@@ -67,7 +67,6 @@ Adam Schweigert, INN
 * "We just changed our content creation interface, and it looks like the control panel of the 747.  Facebook has already solved this problem -- it's so simple to post a link to something."
 * Mike Workman, Boston Globe: "Facebook has solved the problem because they have to get content from their users for free -- so of course they make it easy.  But what would it look like if we could make it that easy in the newsroom?"  
 
-
 **How might we improve the process of pitching stories?**
 * This idea was from Sean Dillingham of KPCC
 
@@ -120,3 +119,16 @@ Adam Schweigert, INN
 * Juxtapose lets you do those sliders, like the ones NYT had for before & after Fukushima.  http://juxtapose.knightlab.com
 * People had unexpected and uses of it, not always ideal.  WE need to build into the tool a way for people to be better visual editors.  
 * Timeline has been used by 350,000 storytellers and gets 100,000 uniques a month.  
+
+**ESPN team on the ESPN Redesign**
+
+Stephen Clancy, Dheerja Kaur, Kamal Grey
+
+Dheerja Kaur is the presenter. 
+
+* Redesign took place over 2 years and coincided with a CMS overhaul. 
+* The beta version is now live to about 60,000 users. 
+* Today's design really constrains editors.  In the redesign, the idea is everything is a toolkit.  We have a huge amount of content types -- live and on demand audio and video, headlines, stories, articles, etc.  We tried to normalize that content so that all the metadata associated with all the content types is visible to the user.   
+* Any content format can be dragged and dropped into the "stream" of the front page or other landing pages.  
+* the toolkit shows Type, Colors, Icons, Buttons, Tables, Forms, Logos, Imagery, Toolkits, page layouts (I think this is what someone use to author it, the choices they have) 
+* 
