@@ -139,7 +139,7 @@ Dheerja Kaur is the presenter.
 * There are also "Now" columns for MLB, NFL front pages, as well as the front page of ESPN.  We'll be able to automate feeds based on players and teams soon too. 
 * Question from Jeanne Brooks.  The Instagram column is all the people you follow, but can you follow a hashtag?  A: Not yet. 
 
-2:30 ET.  Teams report back with their ideas to work on.  
+*2:30 ET.  Teams report back with their ideas to work on.*
 
 * **Team 1:**  How can we make content creators stewards of the next click?  (how can we let content creators suggest the next read to a visitor?  Readers should be able to get more than just a list of headlines.  (this reminds me of those little handwritten shelf tags in independent bookstores, written by staffers recommending a particular book)
 * **Team 2:** Previewing in multiple contexts; previewing based on social; making more content creation possible by modularizing content. (Looks like previewing based on social is the winning idea)
@@ -148,5 +148,9 @@ Dheerja Kaur is the presenter.
 * **Team 5** How can we include better context in the story without detracting from it or distracting the reader?  How can we make crafting that available to content creators?
 * **Team 6**  
 
+4:13 PM ET.  Teams get together and announce refinements of their ideas. 
+
+* **Team 1** We're thinking about how we might foster the "next click." 
+* **Team 2** 
 
 
