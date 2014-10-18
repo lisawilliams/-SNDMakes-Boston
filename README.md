@@ -168,5 +168,13 @@ Jared Novack, Upstatement
 * usually, we just ditch the CMS and build everything in a special, isolated environment. 
 * Upstatement has built Timber -- a Wordpress Plugin that is aimed at letting you make immersive presentations within a Wordpress framework.  
 * Individual Timber-based story packages are called "Twigs".  (file extension: .twig)
-* 
+* Ideally, we want to make admin panels to let people manage intro/header files for feature stories or parts of feature stories. 
+* Problem: "function stew" -- to get info out of Wordpress, you have to use all these PHP functions.  It's a drag.  Nobody knows how to call all the elements you want on the page so you can then style them with CSS or a framework like Bootstrap or whatever. 
+* Solution: Object-based code. 
+* Do it with Twig, which is an open-source template language like Handlebars or Moustache is in Javascript.  
+* Instead of functions,  you just do something like {{post.tamerlan_intro}} to call the intro for your story -- the same one you punched into an admin console earlier. 
+* But when we do this, all the Boston Globe chrome and nav is gone. 
+* But one of the great things about Twig is the idea of template extensions.  You can make a basic "blank" template that brings in header and footer elements that you want.  
+* Beta Boston, Crux, DailyOrange, Harvard Law Review and others use Timber. 
+* You can find out more at timber.upstatement.com  and also available on Github.  https://github.com/jarednova/timber
 
