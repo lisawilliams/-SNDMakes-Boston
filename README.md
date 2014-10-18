@@ -157,4 +157,16 @@ Dheerja Kaur is the presenter.
 * **Team 5** 
 * **Team 6** How might we break the fourth wall in the context of news stories?  How might we expose the reporting and the investigation process?  Improve citation or annotation experience?  In an audio story, I need to cite something a listener might or might not want to go into.  How can it be really easy for me to pull up the citation?  
 
+**Day 2, Lightning Talks**
+
+Jared Novack, Upstatement
+* I have been working on a "How might we" here at Upstatement here for the last year.  My "How Might We" is...
+* "How might we empower designers within the CMS?"
+* The most common way this comes up is, "We want to do a Snowfall-like thing." 
+* Example: The Boston Globe wants to do a 14-piece series on the Tsarnaevs (the family of the Boston Bombers). 
+* We see a lot of code and think "Oh God, Don't Touch Anything!!" because you're afraid of screwing up your project, or even the whole site. 
+* usually, we just ditch the CMS and build everything in a special, isolated environment. 
+* Upstatement has built Timber -- a Wordpress Plugin that is aimed at letting you make immersive presentations within a Wordpress framework.  
+* Individual Timber-based story packages are called "Twigs".  (file extension: .twig)
+* 
 
