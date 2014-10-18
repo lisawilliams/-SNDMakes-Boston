@@ -204,3 +204,14 @@ Jared Novack, Upstatement
 * 6. Seek vision.  No one talks about this -- what the hell does it even mean?  The further you go up the title chain, the further the vision extends.  If you go and talk to the CEO and ask, "Where do you want this company to be 5 months from now?"  You should be seeking that vision going upward.  By nurturing an environment of 'vision richness', people start marching in the same direction. 
 * 7. Train your replacement.  Not that you're going to leave, but it's a motivation you sometimes need to treat other people's growth as a priority.  Treat the person below you as if they're going to replace them someday -- you're helping the company grow from the bottom up and giving someone else the help you probably would have liked 15 years ago.  
 * Last remark: Tools are bullshit!
+
+**Miranda Mulligan, Knight Lab**
+
+* There is a positive hive mind on Twitter where people ask for help and other people dive in and help you. 
+* There's also a negative issue where it seems like there's an urge to be the first person to call another person out about it. 
+* For example, let's say there's a Vox story with a credit missing, and someone tweets, "Look, Vox fucked up again."  
+* When you could have said, "Hey, did you notice that something here is missing." 
+* Jeanne Brooks: "I talk to women developers who see it as a mechanism for cliques developing." 
+* Lisa Williams:  Vivian Gussin Paley wrote a wonderful book called "You Can't Say You Can't Play," about what happened when she told her class of kindergarteners that the new rule was that no one could exclude another child from a play activity.  The kids who hated it the most were the popular kids.  How could we translate that value -- of building value through inclusion, rather than seeking social power by exercising whatever power we have to exclude?  The primary way we exclude people is to express hostility or disapproval towards someone as a signal to your peers that they should do the same.  
+* Miranda: even when their behavior is bad, I don't want my behavior to be bad. 
+
