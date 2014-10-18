@@ -178,3 +178,16 @@ Jared Novack, Upstatement
 * Beta Boston, Crux, DailyOrange, Harvard Law Review and others use Timber. 
 * You can find out more at timber.upstatement.com  and also available on Github.  https://github.com/jarednova/timber
 
+**Kawandeep ("Koven") Virdlee, Creative Technologist, Embedly**
+
+* There will be a news hackathon at the Media Lab in January 2015
+* Making embedding easier is part of the mission of Embedly
+* NYT started this thing called "Watching" and it uses a lot of video embeds (and embedly) 
+* Embedly also has a dashboard to show you how many people are watching a video embed, when it peaks over time. 
+* You can see a dash of all the embeds across a specific site
+* But this isn't enough.  You can't get data on Instagram or Vines. 
+* Initially, it was just an API driven project, only developers could do it. 
+* But we wanted to make something for bloggers and writers. 
+* So now we have a service that lets end users embed and produces a really beautiful embeddable card. 
+
+
