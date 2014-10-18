@@ -190,4 +190,17 @@ Jared Novack, Upstatement
 * But we wanted to make something for bloggers and writers. 
 * So now we have a service that lets end users embed and produces a really beautiful embeddable card. 
 
+**Pete Karl: Harmony on Deadline**
 
+* What are the things that are really important to creating an effective team?
+* It bums me out when you see a team that's just heads down typing all the time, being really productive, and that's it. 
+* That's not a team.  It's productive individuals in a team.  
+* So I want to talk about the things that people don't talk about when we talk about creating team.  
+* 1: Know your team.  Understand what motivates him.  It will help you make them more productive.  
+* 2. Build fluency where teams touch.  At upstatement we have design, and we have technology.  But our teams are fluent in each others' language.  
+* 3. Discipline yourself to speak in problems.  
+* 4. Commitment increases velocity.  If you have a project that's not going anywhere, decisive action and locking things down -- committing to something can really cause movement to burst out of that. 
+* 5. Foster ownership.  Figure out who owns a problem. 
+* 6. Seek vision.  No one talks about this -- what the hell does it even mean?  The further you go up the title chain, the further the vision extends.  If you go and talk to the CEO and ask, "Where do you want this company to be 5 months from now?"  You should be seeking that vision going upward.  By nurturing an environment of 'vision richness', people start marching in the same direction. 
+* 7. Train your replacement.  Not that you're going to leave, but it's a motivation you sometimes need to treat other people's growth as a priority.  Treat the person below you as if they're going to replace them someday -- you're helping the company grow from the bottom up and giving someone else the help you probably would have liked 15 years ago.  
+* Last remark: Tools are bullshit!
